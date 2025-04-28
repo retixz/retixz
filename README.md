@@ -1,4 +1,4 @@
-# Hi there, I'm Alexandru Stoica 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Alexandru Stoica <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/stoica-alexandru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.alexandrustoica.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -59,11 +59,11 @@ I'm always diving deeper into [*Advanced Cloud, AI/ML, Security**].
 
 ## 📊 GitHub Stats
 
-[![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=retxz&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=retixz&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retxz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retixz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retxz&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retixz&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ---
