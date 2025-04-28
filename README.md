@@ -57,4 +57,4 @@ I'm always diving deeper into [**Advanced Cloud, AI/ML, Security**].
 
 ---
 
-📫 Feel free to connect via [LinkedIn][https://www.linkedin.com/in/stoica-alexandru/] or reach out via email!
+📫 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/stoica-alexandru/) or reach out via email!
