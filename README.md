@@ -57,15 +57,4 @@ I'm always diving deeper into [*Advanced Cloud, AI/ML, Security**].
 
 ---
 
-## 📊 GitHub Stats
-
-[![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=retixz&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retixz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retixz&theme=tokyonight)](https://git.io/streak-stats)
-
-
----
-
 📫 Feel free to connect via [LinkedIn][https://www.linkedin.com/in/stoica-alexandru/] or reach out via email!
