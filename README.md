@@ -30,16 +30,16 @@ Here are some examples of my work:
 
 1.  **Personal Portfolio & Blog**
     * **Description:** My online presence, showcasing projects, skills, and blog posts on tech topics.
-    * **Tech:** EJS, Node.js, Express, CSS [Adjust as needed]
+    * **Tech:** EJS, Node.js, Express, CSS
     * **Links:** [🔗 GitHub Repo](https://github.com/retixz/personal-website) | [🚀 Live Site](https://www.alexandrustoica.dev)
 
 2.  **Legacy System Modernization & Scalability (Azure Functions)**
     * **Description:** Implemented an Azure Functions-based queue system to migrate legacy code, significantly improving system resilience and capacity for high-load events (like Black Friday).
-    * **Tech:** Azure Functions, Node.js/TypeScript (Assumed), Queue Systems
+    * **Tech:** Azure Functions, Node.js/TypeScript, Queue Systems
 
 3.  **Fintech API Integration (Onfido KYC)**
     * **Description:** Engineered a reusable flow integrating Onfido services for seamless Know Your Customer (KYC) checks, ensuring regulatory compliance and improving user onboarding efficiency within a core banking application.
-    * **Tech:** Node.js/TypeScript (Assumed), Onfido API, REST APIs
+    * **Tech:** Node.js/TypeScript, Onfido API, REST APIs
 
 ---
 
