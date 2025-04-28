@@ -52,7 +52,7 @@ Passionate about learning and keeping up with the software world. On my blog ([a
 * The critical nexus of **AI and Cybersecurity within the Fintech** sector ([Read Post](https://www.alexandrustoica.dev/blog/fintech-frontier-ai-security)).
 * The human factors in **Cybersecurity**, looking beyond just code vulnerabilities ([Read Post](https://www.alexandrustoica.dev/blog/hacking-is-about-us)).
 
-I'm always diving deeper into [*Advanced Cloud, AI/ML, Security**].
+I'm always diving deeper into [**Advanced Cloud, AI/ML, Security**].
 
 
 ---
